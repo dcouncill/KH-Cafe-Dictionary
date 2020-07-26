@@ -1,2 +1,2 @@
 # KH-Cafe-Dictionary
-A dictionary for Kingdom Heart Food Menu
+A dictionary for Kingdom Hearts Food Menu
